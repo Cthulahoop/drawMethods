@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+body {
+  margin: 30px auto;
+  width: 600px;
+  font-family: 'Source Code Pro', sans-serif;
+  font-size: 13px;
+  color: #888;
+}
+
+p {
+  line-height: 20px;
+}
+
+canvas {
+  display:block;
+  margin: 20px auto;
+}
