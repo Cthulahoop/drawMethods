@@ -169,5 +169,3 @@ CanvasRenderingContext2D.prototype.path = function(points, offsetX, offsetY, clo
   }
   this.restore();
 }
-
-draw();
